@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Mall Store</title>
+    <meta charset="UTF-8">
+    <title>StoreSphere</title>
     @vite('resources/js/app.js')
 </head>
 <body>
